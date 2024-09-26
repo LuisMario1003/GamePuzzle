@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|c:\\users\\hewlett packard\\desktop\\programacion3\\miprimerjuego\\presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{927B795F-0F80-41AF-970D-CF0B7073A4CD}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form3.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form3.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:21:32.975Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form3.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form3.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form3.cs",
+              "RelativeToolTip": "Presentacion\\Form3.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAADwv6IBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:28:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form2.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form2.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form2.cs",
+              "RelativeToolTip": "Presentacion\\Form2.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:11:41.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:07:38.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form2.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form2.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:07:19.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:59:54.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\HEWLETT PACKARD\\Desktop\\Programacion3\\MiPrimerJuego\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:50:34.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

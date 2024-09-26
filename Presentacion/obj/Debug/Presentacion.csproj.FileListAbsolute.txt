@@ -1,0 +1,17 @@
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\HEWLETT PACKARD\Desktop\Programacion3\MiPrimerJuego\Presentacion\obj\Debug\Presentacion.Form3.resources
